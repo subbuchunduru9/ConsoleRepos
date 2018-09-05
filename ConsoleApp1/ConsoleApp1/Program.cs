@@ -10,7 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("First progoram");
+            ConsoleApp1.MathClass.MainMethod();
+            //Console.WriteLine("First progoram");
             Console.ReadKey();
         }
     }

@@ -6,8 +6,15 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class MathClass
+    public static class MathClass
     {
-
+        public static void MainMethod()
+        {
+            Console.WriteLine("Please enter your FirstName");
+            String FirstName = Console.ReadLine();
+            Console.WriteLine("Please Enter your LastName");
+            String LastName = Console.ReadLine();
+            //Console.ReadKey();
+        }
     }
 }
