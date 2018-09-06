@@ -1,0 +1,35 @@
+Introduction
+What is .NET Framework? Complete Architecture
+C# and .Net Version History
+Download and Install Visual Studio
+C# Hello world
+C# Basics Concepts
+C# Data Types
+C# Enum
+C# Variables operator
+C# Conditional Statements
+C# Arrays
+C# Programming Concepts
+C# Class and Object
+C# Access Modifiers and Constructor
+C# Inheritance and Polymorphism
+C# Abstract classes
+C# Interface
+C# Collections
+C# ArrayList
+C# Database Programming Concepts (This
+C# Database Connection  with Exam        ple
+C# File Operations
+
+(Based on your interest I can teach you the below topics also,as you are a tester, you might not need this). It depends upon you.
+
+C# Advance Topics
+C# Stack
+C# Queue
+C# Hashtable
+Delegates
+Threading
+Multi-Threading
+Lambdas
+Func
+Async and Await
