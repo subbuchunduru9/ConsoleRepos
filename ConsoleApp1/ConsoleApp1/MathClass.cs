@@ -8,7 +8,7 @@ namespace ConsoleApp1
 {
     public static class MathClass
     {
-        public static void MainMethod()
+        public static void MathMethod()
         {
             Console.WriteLine("Please enter your FirstName");
             String FirstName = Console.ReadLine();

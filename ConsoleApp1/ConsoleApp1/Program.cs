@@ -10,11 +10,24 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            ConsoleApp1.MathClass.MathMethod();
+
+            //ConsoleApp1.Person.
+
+            Person subbu = new Person();
+            subbu.firstName = "subbu";
+            subbu.lastName = "Chunduru";
+
+            subbu.age = 10;
+            //subbu.personAddress.HouseNo = 15;
+            //subbu.personAddress.streetName = "somestreet";
+            subbu.PrintFullName();
+
             //meaning of static keyword.
             //Now only we will see the objects and classes.
             //class are nothing but blue prints 
-            ConsoleApp1.ArrayProgram arrayProgramblue = new ArrayProgram();
-            arrayProgramblue.PrintArrays();
+            //ConsoleApp1.ArrayProgram arrayProgramblue = new ArrayProgram();
+            //arrayProgramblue.PrintArrays();
 
 
             //ConsoleApp1.ArrayProgram secondred = new ArrayProgram();

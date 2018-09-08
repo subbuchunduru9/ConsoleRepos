@@ -1,0 +1,38 @@
+﻿In this session we will see what are classes and what are objects
+====================
+Objects contain data known as properties, attributes, fields
+Objects contain procedure known as functions or methods
+Objects contain a notion called as this or self
+Most OOPS languages used classes to describe the objects.
+
+UML Diagarms: only theoritical part architectures diagrams
+
+public class car
+{
+	//Properties
+		private wheels;
+		private mirror;
+		private seats;
+		private engine;
+
+	//Methods or functions
+		public bool isEngineOn()
+			{
+				
+				//Some logic to tell to the calling program whether the car engine is on or off
+				....
+				....
+			}
+}
+====================
+Person class
+//Properties
+Name
+Age
+Gender
+
+//Methods or functions.
+Walk();
+Swim();
+Run();
+====================

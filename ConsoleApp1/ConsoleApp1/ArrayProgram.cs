@@ -32,7 +32,7 @@ namespace ConsoleApp1
             studentMarks[8] = 485;
             studentMarks[9] = 310;
             studentMarks[10] = 660;
-            studentMarks[11] = 21;
+            
 
             //Print the values of the arrays
             //Console.WriteLine(studentMarks.Length);
@@ -63,8 +63,9 @@ namespace ConsoleApp1
                 Console.WriteLine(i);
             }
             Console.WriteLine("====================");
-            #endregion
+           
 
+            #endregion
             #region NewREgion
 
 
