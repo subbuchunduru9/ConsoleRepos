@@ -44,7 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayProgram.cs" />
+    <Compile Include="ConsoleReadWriteProgram.cs" />
     <Compile Include="MathClass.cs" />
+    <Compile Include="MultiDimensionalArray.cs" />
+    <Compile Include="MultiplicationTable.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -55,6 +58,7 @@
   <ItemGroup>
     <Content Include="Documents\C# Training.txt" />
     <Content Include="Documents\Sep08th2018.txt" />
+    <Content Include="Documents\Sep09th2018.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

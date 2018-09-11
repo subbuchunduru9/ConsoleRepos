@@ -1,0 +1,26 @@
+﻿In this session we will see the multi dimensional arrays
+
+int[] i = new int[]
+
+//Single dimension array
+string[,] s = new string[2,3]
+//0 0 0 //accessing 0,0 0,1 0,2
+//0 0 0				1,0 1,1 1,2
+
+
+//Simple multiplcation program
+
+Which table you want to print?: 8
+Up to which number you want? 15
+4*1=4
+4*2=8
+4*3=12
+4*4=16
+4*5=20
+======================
+
+Which table you want to print?: 2
+Up to which number you want? 2
+2*1=2
+2*2=4
+======================
