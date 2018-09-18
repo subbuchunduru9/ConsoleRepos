@@ -1,0 +1,7 @@
+﻿Write the C# Programs for the following questions?
+
+1.Print the odd numbers 1 to 100 ?
+2.Print the even numbers from 1 to 100 ?
+3.Write the C# program to find the factorial of the number?
+4.Write the C# Program to check whether the entered string is palindrome or not?
+5.Write the C# Program to count the number of vowels in the entered string? Vowels ( a, e, i , o , u )

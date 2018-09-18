@@ -10,17 +10,14 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int numertoPrint = 9;
-            int maxNumber = 4;
 
-            Console.WriteLine("Which table you want to print?:");
-            numertoPrint = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Print the numbers upto user needs");
-            maxNumber = int.Parse(Console.ReadLine());
-
-            MultiplicationTable mt = new MultiplicationTable();
-            mt.PrintTables(numertoPrint, maxNumber,"S");
+            OddNumbers On = new OddNumbers();
+            //On.OddNums();
+            //On.OddNumsUsingDoWhile();
+            //On.ODdNumsUsingWhile();
+            On.OddNumsUsingDoWhile();
+            //MultiplicationTable d = new MultiplicationTable();
+            //d.PrintTables();
 
             //ConsoleApp1.MathClass.MathMethod();
             //ConsoleApp1.ConsoleReadWriteProgram.ConsoleMethod();
@@ -55,5 +52,7 @@ namespace ConsoleApp1
 
             Console.ReadKey();
         }
+
+
     }
 }
