@@ -7,7 +7,7 @@ string[,] s = new string[2,3]
 //0 0 0 //accessing 0,0 0,1 0,2
 //0 0 0				1,0 1,1 1,2
 
-
+0
 //Simple multiplcation program
 
 Which table you want to print?: 8

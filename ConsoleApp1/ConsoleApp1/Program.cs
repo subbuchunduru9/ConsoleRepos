@@ -10,12 +10,13 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-
-            OddNumbers On = new OddNumbers();
+            Factorial Cs = new Factorial();
+            Cs.FactorialusingWhile();
+            //OddNumbers On = new OddNumbers();
             //On.OddNums();
             //On.OddNumsUsingDoWhile();
             //On.ODdNumsUsingWhile();
-            On.OddNumsUsingDoWhile();
+            //On.OddNumsUsingDoWhile();
             //MultiplicationTable d = new MultiplicationTable();
             //d.PrintTables();
 

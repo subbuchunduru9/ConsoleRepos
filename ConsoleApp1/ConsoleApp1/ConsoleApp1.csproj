@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ArrayProgram.cs" />
     <Compile Include="ConsoleReadWriteProgram.cs" />
+    <Compile Include="Factorial.cs" />
     <Compile Include="MathClass.cs" />
     <Compile Include="MultiDimensionalArray.cs" />
     <Compile Include="MultiplicationTable.cs" />
