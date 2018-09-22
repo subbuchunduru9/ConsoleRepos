@@ -1,0 +1,21 @@
+﻿Constructors: 
+A constrcutor is a special method, which are called automatically when we create a class.
+The constructor name and class name should be same with out any returning from the constructor.
+Constructors can be overloaded with the same name and different parameters.
+
+
+Access Modifiers:
+public
+private
+protected
+protected internal
+
+LIRIL
+NOON
+MADAM
+ABCDDCBA
+qwerrewq
+SUBBU
+
+
+

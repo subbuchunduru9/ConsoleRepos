@@ -10,8 +10,13 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Factorial Cs = new Factorial();
-            Cs.FactorialusingWhile();
+            Palindrome Pw = new Palindrome();
+            Pw.PalindromeMethod();
+            //Vowels Vs = new Vowels();
+            //Vs.VowelsMethod();
+            //creating the object for the class factorial.
+            //Factorial Cs = new Factorial();
+            //Cs.FactorialusingWhile();
             //OddNumbers On = new OddNumbers();
             //On.OddNums();
             //On.OddNumsUsingDoWhile();

@@ -8,6 +8,11 @@ namespace ConsoleApp1
 {
     class MultiDimensionalArray
     {
+
+        public MultiDimensionalArray()
+        {
+
+        }
         static int rows = 2;
         static int cols = 3;
 

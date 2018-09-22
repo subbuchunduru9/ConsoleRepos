@@ -8,6 +8,11 @@ namespace ConsoleApp1
 {
     class ConsoleReadWriteProgram
     {
+
+        public ConsoleReadWriteProgram()
+        {
+
+        }
         public static void ConsoleMethod()
         {
             string saluation = "";

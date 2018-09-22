@@ -8,6 +8,19 @@ namespace ConsoleApp1
 {
     class Factorial
     {
+        
+        //Constructor
+        public Factorial()
+        {
+            //use this constructor to initalize our code
+            //like setting properties for the variables.
+            //used for dependency injection
+            //used to initalize the loggers etc.,
+            Console.WriteLine(2 * 3);
+            Console.WriteLine(3434 + 43535345);
+            //Console.WriteLine("I am called automatically, no one called me to display this line of code");
+        }
+
         public void FactorialusingWhile()
         {
             int result = 1;
@@ -21,12 +34,21 @@ namespace ConsoleApp1
             Console.WriteLine(result);
         }
 
-        public void FactorialusingdoWhile()
+        private void FactorialusingdoWhile()
         {
+            int result = 1;
+            Console.WriteLine("Enter the number you want to print");
+            int UserInput = int.Parse(Console.ReadLine());
+            do
+            {
+                result = result * UserInput;
+                UserInput = UserInput - 1;
 
+            } while (UserInput != 1);
+            Console.WriteLine(result);
         }
 
-        public void FactorialMethod()
+        private void FactorialMethod()
         {
             int result = 1;
             Console.WriteLine("Enter the Factorial Number you want");

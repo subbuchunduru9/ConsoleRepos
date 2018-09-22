@@ -17,7 +17,6 @@ namespace ConsoleApp1
                 i = i + 2;
             }
         }
-
         public void OddNumsUsingDoWhile()
         {
             int i = 1;

@@ -31,7 +31,7 @@ namespace ConsoleApp1
             studentMarks[7] = 320;
             studentMarks[8] = 485;
             studentMarks[9] = 310;
-            studentMarks[10] = 660;
+            //studentMarks[10] = 660;
             
 
             //Print the values of the arrays

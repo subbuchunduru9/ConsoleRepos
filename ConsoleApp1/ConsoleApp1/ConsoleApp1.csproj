@@ -50,9 +50,11 @@
     <Compile Include="MultiDimensionalArray.cs" />
     <Compile Include="MultiplicationTable.cs" />
     <Compile Include="OddNumbers.cs" />
+    <Compile Include="Palindrome.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vowels.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -63,6 +65,7 @@
     <Content Include="Documents\Sep08th2018.txt" />
     <Content Include="Documents\Sep09th2018.txt" />
     <Content Include="Documents\Sep11th2018.txt" />
+    <Content Include="Documents\Sep18th2018.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

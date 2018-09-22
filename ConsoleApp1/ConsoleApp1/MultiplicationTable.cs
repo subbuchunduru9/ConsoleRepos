@@ -8,6 +8,11 @@ namespace ConsoleApp1
 {
     class MultiplicationTable
     {
+
+        public MultiplicationTable()
+        {
+            Console.WriteLine("Construtor");
+        }
         string mathOperator = "";
         long startingNumber = 0;
         long endingNumber = 0;
